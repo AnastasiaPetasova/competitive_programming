@@ -20,7 +20,7 @@ public class Problem1334A {
         for (int t = 0; t < tests; t++){
 
             int n = scanner.nextInt();
-            int [][] test = new int[n][2];
+            int[][] test = new int[n][2];
             boolean correct = true;
 
             test[0][0] = scanner.nextInt();
